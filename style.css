@@ -173,6 +173,11 @@ ul {
         padding: 15px; 
         flex-wrap: wrap;
     }
+    .i{
+        flex-wrap: wrap;
+        text-align: center;
+        padding: 15px;
+    }
 }
 
 .div-max-3 {
